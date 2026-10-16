@@ -1,0 +1,6 @@
+{
+  "name": "City Hunt: Survive Until the Last Breath",
+  "description": "Survive the city in a fast-paced action game. Choose your style: campus brawler, clocktower sniper, or a one-on-one boss duel.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
